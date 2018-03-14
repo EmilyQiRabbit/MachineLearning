@@ -118,6 +118,36 @@ L1 会降低 |权重|。
 
 结果就是，L1 可以使得权重降为 0，L2 通常不会使权重变为 0。
 
+## 5、神经网络
+
+神经网络图例：
+
+![神经网络图示](imgs/SJWLImg.png)
+
+## 6、TensorFlow
+
+TensorFlow是一个可用于构建机器学习模型的平台。但其实它的用途范围要广泛得多: 它是一种基于图表的通用计算框架，可用来编写您能想出的任何东西。
+
+一个栗子：
+以下是在 tf.estimator 中实现的线性回归程序的格式：
+
+``` python
+import tensorflow as tf
+
+# Set up a linear classifier.
+classifier = tf.estimator.LinearClassifier()
+
+# Train the model on some example data.
+classifier.train(input_fn=train_input_fn, steps=2000)
+
+# Use it to predict.
+predictions = classifier.predict(input_fn=predict_input_fn)
+```
+
+值得一提，tf.estimator 与 scikit-learn API 兼容。 scikit-learn 是极其热门的 Python 开放源代码机器学习库，拥有超过 10 万名用户，其中包括许多 Google 员工。
+
+
+
 
 
 
