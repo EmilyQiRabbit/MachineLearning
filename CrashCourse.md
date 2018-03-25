@@ -1,8 +1,8 @@
-# 【摘要】机器学习速成
+# 机器学习
 
-[课程源](https://developers.google.com/machine-learning/crash-course/)
+[机器学习速成课](https://developers.google.com/machine-learning/crash-course/)
 
-下面是我的划重点:
+下面是部分划重点:
 
 ## 1、术语解释
 
