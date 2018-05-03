@@ -126,9 +126,9 @@ L1 会降低 |权重|。
 
 ### 常见的非线性函数
 
-![非线性函数1](http://latex.codecogs.com/gif.latex?\\F(x)=\frac{1}{1+e^x})
+![非线性函数1](http://latex.codecogs.com/gif.latex?\F(x)=\frac{1}{1+e^x})
 
-![非线性函数2](http://latex.codecogs.com/gif.latex?\\F(x)=max(0,x))
+![非线性函数2](http://latex.codecogs.com/gif.latex?\F(x)=max(0,x))
 
 ## 6、TensorFlow
 
