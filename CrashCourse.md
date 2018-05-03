@@ -130,8 +130,6 @@ L1 会降低 |权重|。
 
 ![非线性函数2](http://latex.codecogs.com/gif.latex?F(x)=max(0,x))
 
-![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-
 ## 6、TensorFlow
 
 TensorFlow是一个可用于构建机器学习模型的平台。但其实它的用途范围要广泛得多: 它是一种基于图表的通用计算框架，可用来编写您能想出的任何东西。
