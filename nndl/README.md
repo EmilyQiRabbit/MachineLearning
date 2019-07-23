@@ -2,12 +2,8 @@
 
 [原教材🔗链接](https://github.com/nndl/nndl.github.io)
 
-[[笔记一](https://shimo.im/mindmaps/wR6RHKqsGOY1oAYC)]
+[[笔记一：绪论 and 概述](https://shimo.im/mindmaps/wR6RHKqsGOY1oAYC)]
 
-![](../imgs/nndl-1.png)
+[[笔记二：线性模型](https://shimo.im/mindmaps/lRKAWVRJxeDu8k8X)]
 
-[[笔记二](https://shimo.im/mindmaps/lRKAWVRJxeDu8k8X)]
-
-![](../imgs/nndl-3.png)
-
-[[笔记三](https://shimo.im/mindmaps/dloqeWOjWeDIbAnz)]
+[[笔记三：前馈神经网络 - 神经元](https://shimo.im/mindmaps/dloqeWOjWeDIbAnz)]
